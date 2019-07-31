@@ -3698,7 +3698,7 @@ html[xmlns] .flexslider .slides {
           -ms-flex-order: 1;
               order: 1;
       margin: 0 auto;
-      width: 80%; }
+      width: 50%; }
       @media screen and (min-width: 600px) {
         #masthead > .row-2 > .wrapper.cap .logo {
           -webkit-box-ordinal-group: 3;
